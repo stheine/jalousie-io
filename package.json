@@ -1,0 +1,27 @@
+{
+  "name": "jalousie-io",
+  "version": "0.0.0",
+  "main": "lib/jalousie-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stheine@arcor.de",
+  "license": "ISC",
+  "dependencies": {
+    "@stheine/ringbufferjs": "0.1.1",
+    "async-mqtt": "2.6.1",
+    "check-types-2": "11.3.0",
+    "dayjs": "1.9.7",
+    "delay": "4.4.0",
+    "lodash": "4.17.20",
+    "mcp-spi-adc": "3.1.0",
+    "millisecond": "0.1.2",
+    "pigpio": "3.2.4",
+    "pigpio-dht": "1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "7.15.0",
+    "eslint-config-es": "3.26.9",
+    "eslint-plugin-json": "2.1.2"
+  }
+}
