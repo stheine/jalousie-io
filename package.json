@@ -13,6 +13,7 @@
     "check-types-2": "11.3.0",
     "dayjs": "1.9.7",
     "delay": "4.4.0",
+    "fs-extra": "9.0.1",
     "lodash": "4.17.20",
     "mcp-spi-adc": "3.1.0",
     "millisecond": "0.1.2",
