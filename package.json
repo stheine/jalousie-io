@@ -10,19 +10,19 @@
   "dependencies": {
     "@stheine/ringbufferjs": "0.1.1",
     "async-mqtt": "2.6.1",
-    "check-types-2": "11.3.0",
-    "dayjs": "1.9.7",
-    "delay": "4.4.0",
-    "fs-extra": "9.0.1",
-    "lodash": "4.17.20",
-    "mcp-spi-adc": "3.1.0",
+    "check-types-2": "11.4.0",
+    "dayjs": "1.10.5",
+    "delay": "5.0.0",
+    "fs-extra": "10.0.0",
+    "lodash": "4.17.21",
+    "mcp-spi-adc": "3.1.1",
     "millisecond": "0.1.2",
-    "pigpio": "3.2.4",
+    "pigpio": "3.3.1",
     "pigpio-dht": "1.1.1"
   },
   "devDependencies": {
-    "eslint": "7.15.0",
-    "eslint-config-es": "3.26.9",
-    "eslint-plugin-json": "2.1.2"
+    "eslint": "7.29.0",
+    "eslint-config-es": "3.29.9",
+    "eslint-plugin-json": "3.0.0"
   }
 }
